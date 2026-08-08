@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Compromise Network Simulator",
+  "description": "Interactive cybersecurity research simulator analyzing network segmentation and software patching on cyber compromise spread in enterprise networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
